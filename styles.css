@@ -48,3 +48,20 @@ h1 {
   font-size: 14px;
   font-family: "DM Sans", sans-serif;
 }
+
+.sidebar__footer {
+  background-color: #121212;
+  display: flex;
+  justify-content: space-between;
+  border-radius: 8px;
+  margin-top: 20px;
+  padding: 16px;
+}
+
+.sidebar__footer a {
+  color: #b3b3b3;
+  text-decoration: none;
+  font-weight: 600;
+  font-size: 18px;
+  font-family: "DM Sans", sans-serif;
+}
